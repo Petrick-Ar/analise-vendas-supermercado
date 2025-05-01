@@ -1,31 +1,28 @@
-
 # Análise de Vendas em Supermercado
 
-Este projeto realiza uma análise exploratória de um conjunto de dados fictício sobre vendas em um supermercado.
+Projeto de análise de dados simples utilizando Python, pandas e matplotlib. O objetivo é analisar a receita total por categoria com base em um conjunto de vendas fictício de supermercado.
 
-## Objetivos
+## Sobre o Projeto
 
-- Explorar os dados de vendas por categoria e produto
-- Calcular a receita total por categoria
-- Visualizar as informações em gráficos simples
+Este projeto simula uma análise de vendas de um supermercado com base em dados como produto, quantidade, preço unitário e categoria. Aqui, realizamos:
 
-## Ferramentas Utilizadas
+- Criação de coluna de Receita Total  
+- Agrupamento de receita por categoria  
+- Visualização com gráfico de barras  
 
-- Python
-- Pandas
-- Matplotlib
-- Google Colab ou Jupyter Notebook
+## Arquivos
 
-## Como usar
+- `vendas_supermercado.csv`: Dados fictícios utilizados  
+- `analise_vendas.ipynb`: Notebook com a análise completa  
+- `README.md`: Descrição do projeto  
 
-1. Faça o download do arquivo `vendas_supermercado.csv`
-2. Rode o notebook `analise_vendas.ipynb` em um ambiente como Google Colab
-3. Analise os gráficos e resultados gerados
+## Executar o Projeto
 
-## Resultado Esperado
+Você pode abrir e executar este notebook diretamente no Google Colab:
 
-Um gráfico de barras mostrando a receita total por categoria de produto.
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Petrick19/analise-vendas-supermercado/blob/main/analise_vendas.ipynb)
 
 ## Autor
 
-Whis (Petrick Araújo de Lima)
+**Petrick Araújo de Lima**  
+[LinkedIn](https://www.linkedin.com/in/petrick-araújo-de-lima-44a1b0245)
